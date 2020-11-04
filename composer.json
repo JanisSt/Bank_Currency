@@ -1,0 +1,14 @@
+{
+  "name": "janis/codelex",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "doctrine/dbal": "^2.12",
+    "sabre/xml": "^2.2",
+    "vlucas/phpdotenv": "^5.2",
+    "nikic/fast-route": "^1.3"
+  }
+}
